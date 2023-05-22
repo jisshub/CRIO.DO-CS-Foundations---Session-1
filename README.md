@@ -56,3 +56,8 @@ Here we use JSON to structure the data. JSON is a structured data.
 
 - REST API returns JSON data.
 - Structured data can be easily understood and formatted. 
+- API returns JSON data.
+
+
+### REST BYTE
+
