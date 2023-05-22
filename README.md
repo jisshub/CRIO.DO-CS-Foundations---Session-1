@@ -61,3 +61,11 @@ Here we use JSON to structure the data. JSON is a structured data.
 
 ### REST BYTE
 
+### REST SNEAKPEAK
+
+- Cookies are session specific.
+
+- When we login and logout, then when we will get different cookie.
+
+
+
